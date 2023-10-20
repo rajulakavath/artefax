@@ -1,0 +1,169 @@
+/*#144949
+#6fdddd
+*/
+.logo_img{
+	/*width: 30px;*/
+    height: 30px;
+    margin: 12px 0px;
+}
+.buttons_view button {
+    background: #000000;
+    color: #6fdddd;
+    border: 2px solid #6fdddd;
+    border-radius: 12px;
+}
+.prompt_engineer {
+    width: 100%;
+    text-align: center;
+    margin: 20px 0%;
+}
+.contact-details input, .contact-details select {
+    margin: 10px 12.5% 15px;
+    text-align: center;
+    border: 1px solid #6fdddd;
+    background: #000000;
+    border-radius: 10px;
+    color: #6fdddd;
+}
+#collection_name{
+	margin: 0px auto;
+}
+.submit_btn {
+    border: 0px;
+    background: transparent;
+    text-decoration: underline;
+    font-size: 14px;
+    color: #6fdddd;
+    outline: none !important;
+}
+.submit_btn:hover{
+	font-weight: bold;
+}
+.emotions button, .emotions select{
+	width: 46%;
+    margin: 0px 1% 10px;
+    background: #000000;
+    border: 1px solid #6fdddd;
+    border-radius: 15px;
+}
+.plan_dets ul, .content-notes ul{
+	margin-left: -15px !important;
+}
+.plan_dets ul {
+    border: 1px solid #6fdddd;
+    padding: 5px 0px 5px 23px !important;
+    border-radius: 10px;
+    margin: -10px 0px 5px 0px !important;
+}
+.plan_dets ul li{
+	font-size: 12px;
+}
+.content-notes ul li{
+	list-style: circle;
+	font-size: 12px;
+}
+.prompt_images{
+	float: left;
+	padding:0px 20%;
+}
+.prompt_images img {
+    float: left;
+    height: 65px;
+    object-fit: contain;
+    object-position: center;
+    margin: 0px 0px 10px 0px;
+    padding: 2px;
+}
+.promps_list{float: left;}
+.promps_list ul {
+    margin: 0px auto !important;
+    width: calc(100% - 30px) !important;
+}
+.promps_list ul li {
+    list-style: none;
+    width: 30px;
+    height: 30px;
+    display: block;
+    float: left;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    line-height: 30px;
+    margin: 0px 10px 0px;
+    font-size: 13px;
+}
+
+.prompt_out_images{
+	float: left;
+}
+.prompt_out_images img {
+    height: 130px;
+    object-fit: contain;
+    object-position: center;
+    width: 200px !important;
+    background-color: #ffffff;
+    padding: 2px;
+    border-radius: 5px;
+}
+.publish_btn {
+    font-size: 14px;
+    background: #000000;
+    color: #6fdddd;
+    text-decoration: none;
+    border: 1px solid #6fdddd;
+    padding: 5px;
+    border-radius: 5px;
+    outline: none;
+}
+#features-section textarea#Message {
+    background: #000000;
+    border: 1px solid #6fdddd;
+    border-radius: 15px;
+    color: #6fdddd;
+}
+#click_submit {
+    background: #000000;
+    border: 1px solid #6fdddd;
+    border-radius: 15px;
+}
+.bg_hvr{
+	background-color: #144949;
+}
+.plan_select a {
+    border: 1px solid #6fdddd;
+    border-radius: 11px;
+    padding: 0px 15px;
+    font-size: 10px;
+}
+#collections button {
+    text-decoration: none;
+    border: 1px solid #6fdddd;
+    background: #000000;
+    padding: 6px;
+    border-radius: 10px;
+}
+.img-customer{
+	object-fit: contain;
+}
+.product_price {
+    position: absolute;
+    bottom: 10px;
+    font-weight: 900;
+    letter-spacing: 0.2px;
+    z-index: 11;
+}
+.output_products button {
+    background: #000000;
+    color: #6fdddd;
+    border: 1px solid #6fdddd;
+    border-radius: 15px;
+    padding: 5px;
+    outline: none;
+}
+.restart_design {
+    border: 0px solid !important;
+    font-weight: bold;
+    width: 210px !important;
+    font-size: 14px;
+    margin-top: 10px;
+    outline: none;
+}
